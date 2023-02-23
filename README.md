@@ -119,8 +119,8 @@ Thank you!
 
 <!-- CONTACT -->
 ## Contact
-Snehapiriya Kammalakannon - [@slack-handle](@sneha) - sneha_kammalakannon@intuit.com
-Harpreet Wadhwa - [@slack-handle](@haps) - hwadhwa@intuit.com
+1. Snehapiriya Kammalakannon - [@slack-handle](@sneha) - sneha_kammalakannon@intuit.com
+2. Harpreet Wadhwa - [@slack-handle](@haps) - hwadhwa@intuit.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,4 +143,4 @@ Harpreet Wadhwa - [@slack-handle](@haps) - hwadhwa@intuit.com
 [forks-url]: https://github.intuit.com/secrnd-devops/argus/network/members
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.intuit.com/secrnd-devops/argus/issues
-[grafana]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=grafana&logoColor=F46800
+[grafana]: https://img.shields.io/badge/Grafana-20232A?style=for-the-badge&logo=grafana&logoColor=F46800

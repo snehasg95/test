@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/1000_eyed_logo_for_tool_image_JDttJVRVQLAF8yj5OwpX_2.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Argus</h3>

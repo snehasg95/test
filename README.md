@@ -64,10 +64,10 @@ Our goal was to create a user-friendly and customizable tool that would allow us
 
 ### Built With
 
-* [![Grafana][grafana]]['https://grafana.com/']
-* [![AWS][aws]]['https://aws.amazon.com/']
-* [![Python][python]]['https://www.python.org/']
-* [![PagerDuty][pagerduty]]['https://www.pagerduty.com/']
+* [grafana]
+* [aws]
+* [python]
+* [pagerduty]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,3 +144,6 @@ Thank you!
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.intuit.com/secrnd-devops/argus/issues
 [grafana]: https://img.shields.io/badge/Grafana-20232A?style=for-the-badge&logo=grafana&logoColor=F46800
+[aws]: https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=AWS&logoColor=232F3E
+[python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB
+[pagerduty]: https://img.shields.io/badge/PagerDuty-20232A?style=for-the-badge&logo=pagerduty&logoColor=06AC38
